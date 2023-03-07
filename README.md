@@ -29,7 +29,7 @@ _A web application that allows user to add animals to an Animal Shelter._
 
 ## Known Bugs
 
-* Search UI is not finished
+* no known bugs
 
 ## License
 
